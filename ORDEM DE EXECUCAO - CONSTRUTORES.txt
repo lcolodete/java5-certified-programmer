@@ -1,0 +1,14 @@
+1) static init block do pai
+
+2) static init block do filho
+
+3) instance init block do pai
+
+4) construtor do pai (super)
+
+5) instance init block do filho
+
+6) primeira linha do construtor do filho
+
+
+--> ver o arquivo ConstructorTest.java 
